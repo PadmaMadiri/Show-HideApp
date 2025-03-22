@@ -1,5 +1,7 @@
 In this project, let's build a **Show/Hide App** by applying the concepts we have learned till now.
 
+To see the output click here : https://hidepadma.ccbp.tech
+
 ### Refer to the image below:
 
 <br/>
