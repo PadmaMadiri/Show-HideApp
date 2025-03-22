@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #fddddb;
+  font-family: 'Roboto', sans-serif;
+}
+
+.heading {
+  font-size: 36px;
+  color: #dd1264;
+  margin-bottom: 30px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.button-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.toggle-button {
+  background-color: #fa7257;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.name-box {
+  background-color: #fc63a7;
+  color: #ffffff;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 5px;
+}
